@@ -3,7 +3,9 @@
 Welcome to my portfolio repository! This project represents the completion of **Module 4** of my web development learning journey.
 
 ## 📸 Output Preview (Light Mode)
-![Module 4 Light Mode Output](Screenshot 2026-11-14 134609.jpg)
+<img width="707" height="546" alt="MODULE_4_LIGHT_MODE" src="https://github.com/user-attachments/assets/48bc059c-4d70-4e61-836e-ba42312641bc" />
+## 📸 Output Preview (Dark Mode)
+<img width="766" height="560" alt="MODULE_4_DARK_MODE" src="https://github.com/user-attachments/assets/961860f3-818b-47be-837a-187ebcc66053" />
 
 ---
 
